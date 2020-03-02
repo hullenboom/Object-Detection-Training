@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chipsfrisch</folder>
+	<filename>Chipsfrisch015.png</filename>
+	<path>C:\Users\Hendrik\Masterarbeit\Bilder\Trainingsbilder\Object-Detection\Chipsfrisch\Chipsfrisch015.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>569</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chipsfrisch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>40</ymin>
+			<xmax>290</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lätta</folder>
+	<filename>Lätta001.png</filename>
+	<path>C:\Users\Hendrik\Masterarbeit\Bilder\Trainingsbilder\Object-Detection\Lätta\Lätta001.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>569</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laetta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>195</ymin>
+			<xmax>311</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

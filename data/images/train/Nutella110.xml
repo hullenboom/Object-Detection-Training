@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nutella</folder>
+	<filename>Nutella110.png</filename>
+	<path>C:\Users\Hendrik\Desktop\Masterarbeit\Object-Detection\Nutella\Nutella110.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>569</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nutella</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>53</ymin>
+			<xmax>296</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>
